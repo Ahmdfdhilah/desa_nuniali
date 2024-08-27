@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = ./backend
+[submodule "cms"]
+	path = cms
+	url = ./cms
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
