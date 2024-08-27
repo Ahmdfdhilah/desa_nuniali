@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/Ahmdfdhilah/desa_nuanali_backend
 [submodule "cms"]
 	path = cms
-	url = ./cms
+	url = https://github.com/Ahmdfdhilah/desa_nuanali_cms
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/Ahmdfdhilah/desa_nuanali_frontend
